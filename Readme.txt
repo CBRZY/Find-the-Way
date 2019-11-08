@@ -1,3 +1,9 @@
+Link to game that is playable:
+https://gamejolt.com/games/find_the_way/331874
+
+C# files can be found in Assets/_Scripts:
+https://github.com/DigitalCapitan-Unity/Find-the-Way/tree/master/Assets/_Scripts
+
 ===========================
 Unity Game Jam Project
 ===========================
@@ -20,6 +26,3 @@ External Assets
 -Tileset obtained from https://opengameart.org by http://www.ludicarts.com/free-volcano-platform-tileset/
 -Character obtained from https://opengameart.org by http://www.ludicarts.com/free-platform-character/
 ===========================
-
-
-http://gamedevjon.com/gamehost/games/Find%20The%20Way%20Web-1523102836-554858770/Find%20The%20Way%20Web/
