@@ -1,0 +1,12 @@
+Discord User Name: CptSlug
+
+Unity Version: 2017.3.1f3
+
+(YES) Would you like the judges to attribute 
+your game entry to your Discord name when 
+streaming your game? 
+(Note that not all games will be streamed due 
+to time and resource constraints. 
+The winning games will be streamed and a 
+selection of others may be as well, 
+but we make no promises.)#gamedevjongamejam
